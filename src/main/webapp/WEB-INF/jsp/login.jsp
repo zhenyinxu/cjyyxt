@@ -7,6 +7,12 @@
 </head>
 <body>
 
-login page !
+<form action="/user/login" method="post">
+    用户名：<input name ="passport">
+    <br/>
+    密码：<input name ="password">
+    <br/>
+    <input type="submit" value="提交">
+</form>
 </body>
 </html>

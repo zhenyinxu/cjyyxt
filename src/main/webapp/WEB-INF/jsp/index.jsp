@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>谈话函询—信息查看</title>
+    <title>index</title>
 </head>
 <body>
 
